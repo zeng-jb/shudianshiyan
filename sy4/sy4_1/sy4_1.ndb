@@ -1,0 +1,63 @@
+NDB006
+The number of symbol table entries is: 3
+The length of the symbol table is: 32
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|74162:1|
+8	|7400:2|
+
+The number of name info structs is : 49
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdp	!	CK	o
+#	IGdq	!	QA	s
+$	IGdq	!	QB	r
+%	IGdq	!	QC	p
+&	IGdq	!	QD	q
+'	INu}	8	(	1	"i
+(	IVOQ	8	'	:4	"i
+)	IGdW	.	:18	"A
+*	IGdW	.	:19	"B
++	IGdW	.	:20	"C
+,	IGdW	.	:21	"D
+-	IGdW	.	:22	"E
+.	IGdW	.	:23	"F
+/	IGdW	.	:24	"G
+0	IGdW	.	:25	"H
+1	IGdW	.	:26	"I
+2	IGdW	.	:27	"J
+3	IGdW	.	:28	"K
+4	IGdW	.	:29	"L
+5	IGdW	.	:30	"M
+6	IGdW	.	:31	"N
+7	IGdW	.	:32	"O
+8	IGdW	.	:33	"P
+9	IGdW	.	:34	"Q
+:	IGdW	.	:35	"R
+;	IGdW	.	:36	"S
+<	IGdW	.	:37	"T
+=	IGdW	.	:38	"U
+>	IGdW	.	:39	"V
+?	IGdW	.	:40	"W
+@	IGdW	.	:41	"X
+A	IGdW	.	:42	"Y
+B	IVOA	.	N	:43	"Z
+C	IVOA	.	O	:44	"[
+D	IVOA	.	P	:45	"\
+E	IVOA	.	Q	:46	"]
+F	IGdW	.	:47	"^
+G	IGdW	.	:48	"_
+H	IGdW	.	:54	"<
+I	IGdW	.	:55	"=
+J	IGdW	.	:57	">
+K	IVOQ	.	R	:58	"?
+L	IGdW	.	:59	"@
+M	IGdW	.	:74	"`
+N	INum	.	B	QA	"Z
+O	INum	.	C	QB	"[
+P	INum	.	D	QC	"\
+Q	INum	.	E	QD	"]
+R	INu}	.	K	RCO	"?

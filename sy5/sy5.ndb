@@ -1,0 +1,131 @@
+NDB006
+The number of symbol table entries is: 4
+The length of the symbol table is: 43
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|74160:1|
+8	|74160:3|
+B	|74160:2|
+
+The number of name info structs is : 116
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdW	!	:16	"J
+#	IGdW	!	:17	"K
+$	IGdq	!	alarm	s
+%	IGdp	!	CLEAR--START	q
+&	IGdp	!	CONTINUE---PAUSE	o
+'	IGdp	!	CP--10HZ	p
+(	IGdq	!	QA0	v
+)	IGdq	!	QA1	z
+*	IGdq	!	QB0	r
++	IGdq	!	QB1	w
+,	IGdq	!	QC0	t
+-	IGdq	!	QC1	x
+.	IGdq	!	QD0	u
+/	IGdq	!	QD1	y
+0	IGdW	.	:10	"c
+1	IGdW	.	:11	"d
+2	IGdW	.	:12	"e
+3	IGdW	.	:13	"f
+4	IGdW	.	:14	"g
+5	IGdW	.	:15	"h
+6	IGdW	.	:16	"i
+7	IGdW	.	:17	"j
+8	IGdW	.	:24	"k
+9	IGdW	.	:25	"l
+:	IGdW	.	:26	"m
+;	IGdW	.	:27	"n
+<	IGdW	.	:28	"o
+=	IGdW	.	:29	"p
+>	IGdW	.	:30	"q
+?	IGdW	.	:31	"r
+@	IGdW	.	:32	"s
+A	IGdW	.	:33	"t
+B	IGdW	.	:34	"u
+C	IVOQ	.	Q	:45	"z
+D	IGdW	.	:46	"y
+E	IGdW	.	:47	"x
+F	IGdW	.	:49	"w
+G	IGdW	.	:50	"v
+H	IVOA	.	M	:6	"_
+I	IGdW	.	:65	"{
+J	IVOA	.	N	:7	"`
+K	IVOA	.	O	:8	"a
+L	IVOA	.	P	:9	"b
+M	INum	.	H	QA	"_
+N	INum	.	J	QB	"`
+O	INum	.	K	QC	"a
+P	INum	.	L	QD	"b
+Q	INu}	.	C	RCO	"z
+R	IGdW	B	:10	#d
+S	IGdW	B	:11	#e
+T	IGdW	B	:12	#f
+U	IGdW	B	:13	#g
+V	IGdW	B	:14	#h
+W	IGdW	B	:15	#i
+X	IGdW	B	:16	#j
+Y	IGdW	B	:17	#k
+Z	IGdW	B	:24	#l
+[	IGdW	B	:25	#m
+\	IGdW	B	:26	#n
+]	IGdW	B	:27	#o
+^	IGdW	B	:28	#p
+_	IGdW	B	:29	#q
+`	IGdW	B	:30	#r
+a	IGdW	B	:31	#s
+b	IGdW	B	:32	#t
+c	IGdW	B	:33	#u
+d	IGdW	B	:34	#v
+e	IVOQ	B	s	:45	#{
+f	IGdW	B	:46	#z
+g	IGdW	B	:47	#y
+h	IGdW	B	:49	#x
+i	IGdW	B	:50	#w
+j	IVOA	B	o	:6	#`
+k	IGdW	B	:65	#|
+l	IVOA	B	p	:7	#a
+m	IVOA	B	q	:8	#b
+n	IVOA	B	r	:9	#c
+o	INum	B	j	QA	#`
+p	INum	B	l	QB	#a
+q	INum	B	m	QC	#b
+r	INum	B	n	QD	#c
+s	INu}	B	e	RCO	#{
+t	IGdW	8	:10	#5
+u	IGdW	8	:11	#6
+v	IGdW	8	:12	#7
+w	IGdW	8	:13	#8
+x	IGdW	8	:14	#9
+y	IGdW	8	:15	#:
+z	IGdW	8	:16	#;
+{	IGdW	8	:17	#<
+|	IGdW	8	:24	#=
+}	IGdW	8	:25	#>
+~	IGdW	8	:26	#?
+"!	IGdW	8	:27	#@
+""	IGdW	8	:28	#A
+"#	IGdW	8	:29	#B
+"$	IGdW	8	:30	#C
+"%	IGdW	8	:31	#D
+"&	IGdW	8	:32	#E
+"'	IGdW	8	:33	#F
+"(	IGdW	8	:34	#G
+")	IVOQ	8	"7	:45	#L
+"*	IGdW	8	:46	#K
+"+	IGdW	8	:47	#J
+",	IGdW	8	:49	#I
+"-	IGdW	8	:50	#H
+".	IVOA	8	"3	:6	#1
+"/	IGdW	8	:65	#M
+"0	IVOA	8	"4	:7	#2
+"1	IVOA	8	"5	:8	#3
+"2	IVOA	8	"6	:9	#4
+"3	INum	8	".	QA	#1
+"4	INum	8	"0	QB	#2
+"5	INum	8	"1	QC	#3
+"6	INum	8	"2	QD	#4
+"7	INu}	8	")	RCO	#L

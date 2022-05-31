@@ -1,0 +1,110 @@
+NDB006
+The number of symbol table entries is: 4
+The length of the symbol table is: 45
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|74162:13|
+9	|74162:14|
+D	|7420:15|
+
+The number of name info structs is : 95
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdp	!	CK	o
+#	IGdq	!	QA0	t
+$	IGdq	!	QA1	s
+%	IGdq	!	QB0	w
+&	IGdq	!	QB1	p
+'	IGdq	!	QC0	v
+(	IGdq	!	QC1	q
+)	IGdq	!	QD0	u
+*	IGdq	!	QD1	r
++	IGdW	.	:18	"V
+,	IGdW	.	:19	"W
+-	IGdW	.	:20	"X
+.	IGdW	.	:21	"Y
+/	IGdW	.	:22	"Z
+0	IGdW	.	:23	"[
+1	IGdW	.	:24	"\
+2	IGdW	.	:25	"]
+3	IGdW	.	:26	"^
+4	IGdW	.	:27	"_
+5	IGdW	.	:28	"`
+6	IGdW	.	:29	"a
+7	IGdW	.	:30	"b
+8	IGdW	.	:31	"c
+9	IGdW	.	:32	"d
+:	IGdW	.	:33	"e
+;	IGdW	.	:34	"f
+<	IGdW	.	:35	"g
+=	IGdW	.	:36	"h
+>	IGdW	.	:37	"i
+?	IGdW	.	:38	"j
+@	IGdW	.	:39	"k
+A	IGdW	.	:40	"l
+B	IGdW	.	:41	"m
+C	IGdW	.	:42	"n
+D	IVOA	.	P	:43	"o
+E	IVOA	.	Q	:44	"p
+F	IVOA	.	R	:45	"q
+G	IVOA	.	S	:46	"r
+H	IGdW	.	:47	"s
+I	IGdW	.	:48	"t
+J	IGdW	.	:54	"Q
+K	IGdW	.	:55	"R
+L	IGdW	.	:57	"S
+M	IVOQ	.	T	:58	"T
+N	IGdW	.	:59	"U
+O	IGdW	.	:74	"u
+P	INum	.	D	QA	"o
+Q	INum	.	E	QB	"p
+R	INum	.	F	QC	"q
+S	INum	.	G	QD	"r
+T	INu}	.	M	RCO	"T
+U	IGdW	9	:18	#0
+V	IGdW	9	:19	#1
+W	IGdW	9	:20	#2
+X	IGdW	9	:21	#3
+Y	IGdW	9	:22	#4
+Z	IGdW	9	:23	#5
+[	IGdW	9	:24	#6
+\	IGdW	9	:25	#7
+]	IGdW	9	:26	#8
+^	IGdW	9	:27	#9
+_	IGdW	9	:28	#:
+`	IGdW	9	:29	#;
+a	IGdW	9	:30	#<
+b	IGdW	9	:31	#=
+c	IGdW	9	:32	#>
+d	IGdW	9	:33	#?
+e	IGdW	9	:34	#@
+f	IGdW	9	:35	#A
+g	IGdW	9	:36	#B
+h	IGdW	9	:37	#C
+i	IGdW	9	:38	#D
+j	IGdW	9	:39	#E
+k	IGdW	9	:40	#F
+l	IGdW	9	:41	#G
+m	IGdW	9	:42	#H
+n	IVOA	9	z	:43	#I
+o	IVOA	9	{	:44	#J
+p	IVOA	9	|	:45	#K
+q	IVOA	9	}	:46	#L
+r	IGdW	9	:47	#M
+s	IGdW	9	:48	#N
+t	IGdW	9	:54	#+
+u	IGdW	9	:55	#,
+v	IGdW	9	:57	#-
+w	IVOQ	9	~	:58	#.
+x	IGdW	9	:59	#/
+y	IGdW	9	:74	#O
+z	INum	9	n	QA	#I
+{	INum	9	o	QB	#J
+|	INum	9	p	QC	#K
+}	INum	9	q	QD	#L
+~	INu}	9	w	RCO	#.
+"!	INu}	D	""	1	#Y
+""	IVOQ	D	"!	:6	#Y

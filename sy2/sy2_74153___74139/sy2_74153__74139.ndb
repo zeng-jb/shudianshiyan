@@ -1,0 +1,68 @@
+NDB006
+The number of symbol table entries is: 3
+The length of the symbol table is: 33
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|74153:1|
+8	|74139:2|
+
+The number of name info structs is : 54
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdp	!	A	o
+#	IGdp	!	B	t
+$	IGdp	!	C0	s
+%	IGdp	!	C1	r
+&	IGdp	!	C2	q
+'	IGdp	!	C3	p
+(	IGdq	!	Y0	x
+)	IGdq	!	Y1	v
+*	IGdq	!	Y2	w
++	IGdq	!	Y3	u
+,	IGdW	8	:10	"}
+-	IGdW	8	:11	"|
+.	IGdW	8	:12	"{
+/	IGdW	8	:13	"z
+0	IGdW	8	:14	"y
+1	IGdW	8	:15	"x
+2	IGdW	8	:16	"w
+3	IVOQ	8	>	:33	"o
+4	IVOQ	8	?	:34	"p
+5	IVOQ	8	@	:35	"q
+6	IVOQ	8	A	:36	"r
+7	IVOQ	8	B	:37	"s
+8	IVOQ	8	C	:38	"t
+9	IVOQ	8	D	:39	"u
+:	IVOQ	8	E	:40	"v
+;	IGdW	8	:7	#"
+<	IGdW	8	:8	#!
+=	IGdW	8	:9	"~
+>	INu}	8	3	Y10N	"o
+?	INu}	8	4	Y11N	"p
+@	INu}	8	5	Y12N	"q
+A	INu}	8	6	Y13N	"r
+B	INu}	8	7	Y20N	"s
+C	INu}	8	8	Y21N	"t
+D	INu}	8	9	Y22N	"u
+E	INu}	8	:	Y23N	"v
+F	INu}	.	W	1Y	"T
+G	INu}	.	I	2Y	"U
+H	IGdW	.	:1	"L
+I	IVOQ	.	G	:10	"U
+J	IGdW	.	:2	"M
+K	IGdW	.	:25	"V
+L	IGdW	.	:26	"W
+M	IGdW	.	:27	"X
+N	IGdW	.	:28	"Y
+O	IGdW	.	:29	"Z
+P	IGdW	.	:3	"N
+Q	IGdW	.	:30	"[
+R	IGdW	.	:4	"O
+S	IGdW	.	:5	"P
+T	IGdW	.	:6	"Q
+U	IGdW	.	:7	"R
+V	IGdW	.	:8	"S
+W	IVOQ	.	F	:9	"T
